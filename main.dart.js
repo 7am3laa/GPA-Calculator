@@ -80162,7 +80162,7 @@ else if(a>=1.5&&a<2)return B.rJ
 else if(a<1.5)return B.rJ
 return B.l}}
 A.IY.prototype={
-J(a){return new A.wu(B.DX,"GPA Calculator",A.A3(null,A.ayZ(B.Y,B.Iq),!1),!1,new A.I2(),null)}}
+J(a){return new A.wu(B.DX,"\u062d\u0633\u0627\u0628 \u0627\u0644\u0645\u0639\u062f\u0644 \u0627\u0644\u062a\u0631\u0627\u0643\u0645\u064a",A.A3(null,A.ayZ(B.Y,B.Iq),!1),!1,new A.I2(),null)}}
 A.I2.prototype={$iape:1}
 A.HP.prototype={
 J(a){var s=null,r=t.w,q=t.E

@@ -3,10 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "e502a65b7f0b5604f2b5928cf7d73072",
-"assets/AssetManifest.bin.json": "7c6772ec977230d94749d1771faf8b90",
-"assets/AssetManifest.json": "51b11252352fbcdbb87243a3c8bd05f4",
+const RESOURCES = {"assets/AssetManifest.bin": "71cea726807618c308a600474fb45cd3",
+"assets/AssetManifest.bin.json": "d1ce5dca5a602c74da2dc9e4b17f0361",
+"assets/AssetManifest.json": "09e97f71b095dc20b28a33e08498b559",
 "assets/assets/fonts/Arimo-VariableFont_wght.ttf": "a6fb3d902116b1c5bbf2d30ac0da5723",
+"assets/assets/fonts/MaterialIcons-Regular.otf": "32fce58e2acb9c420eab0fe7b828b761",
 "assets/assets/images/fci_en.png": "d40ee384fbf068d535712c57f1d5a2fd",
 "assets/assets/images/university-background.jpg": "80591a9d591da34471f668fbbccfd9d0",
 "assets/assets/images/uni_en.png": "07c9d8e3872275825754389a2373ce4a",
@@ -28,9 +29,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "e502a65b7f0b5604f2b5928cf7d73072
 "icons/Icon-512.png": "77bf4ef6a24ecec177637fbec18cbda5",
 "icons/Icon-maskable-192.png": "77bf4ef6a24ecec177637fbec18cbda5",
 "icons/Icon-maskable-512.png": "77bf4ef6a24ecec177637fbec18cbda5",
-"index.html": "c7a1fdc3b301e0c07b9a7b27ad4d7ba7",
-"/": "c7a1fdc3b301e0c07b9a7b27ad4d7ba7",
-"main.dart.js": "759a3c9c41b775bff4b143d52d2b5130",
+"index.html": "120a68a32660d791b4eafc85d7a05529",
+"/": "120a68a32660d791b4eafc85d7a05529",
+"main.dart.js": "e16943e4a6bf69719e3729cb2d00e949",
 "manifest.json": "edc7e3920561f379a8699fd2a75a4636",
 "version.json": "baea1ca7464aaa7971d8eae50a094753"};
 // The application shell files that are downloaded before a service worker can
