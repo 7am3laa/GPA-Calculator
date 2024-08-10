@@ -1,16 +1,12 @@
-# gpa_
+# GPA Calculator
 
-A new Flutter project.
+## Overview
 
-## Getting Started
+The **GPA Calculator** is a Flutter web application designed specifically for students of Menoufia University. This tool helps students calculate their Grade Point Average (GPA) and assess their academic performance with ease.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **GPA Calculation**: Input grades and credit hours to compute your GPA.
+- **Customizable**: Supports various grading scales and credit hour configurations.
+- **Semester GPA**: Calculate GPA for individual semesters and track progress.
+- **Total GPA**: Determine the overall GPA considering past and current semester data.
